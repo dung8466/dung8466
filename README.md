@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Tiến Dũng</h1>
-<h3 align="center">I'm self-taught web dev</h3>
+<h3 align="center">I'm self-taught web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntd8466&label=Profile%20views&color=0e75b6&style=flat" alt="ntd8466" /> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 
+- 👨‍💻 All of my projects are available at [https://github.com/dung8466](https://github.com/dung8466)
+
 - 📫 How to reach me **ntd8466@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/https://www.facebook.com/ntd8466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ntd8466" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ntd_20_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ntd_20_01/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
