@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Tiến Dũng</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">Currently working as CloudOps at BizflyCloud-Vccorp</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dung8466&label=Profile%20views&color=0e75b6&style=flat" alt="dung8466" /> </p>
 
-- 🌱 I’m currently learning **Vuejs, SCSS/SASS**
+- 🌱 I’m currently learning **Openstack, Docker, Ansible**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dung8466?tab=repositories](https://github.com/dung8466?tab=repositories)
 
